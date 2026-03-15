@@ -20,9 +20,8 @@
 
 ## Технологии
 - **CI:** GitHub Actions (build & test)
-- **JSON:** nlohmann/json
-- **Логирование:** spdlog
 - **Тестирование:** GTest, CTest (coverage ~70%)
 - **HTTP/REST:** CPR lib
+- **JSON:** nlohmann/json
+- **Логирование:** spdlog
 - **Config:** JSON file
-
